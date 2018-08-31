@@ -5,11 +5,11 @@ Layanan pengiriman SMS (Short Message Service) dengan ID Sender sehingga identit
 
 Benefit Menggunakan Citra SMS
 		
-			 <ol><li>Dapat berfungsi sebagai Ucapan Selamat Datang / Sapaan GRETTINGS</li>
-			 <li>Dapat berfungsi sebagai Sistim Pengingat REMINDER</li>
-			 <li>Dapat berfungsi sebagai Sistim Penyampaian Pesan ANNOUCEMENT</li>
-			 <li>Dapat berfungsi sebagai Media Promosi PROMOTION</li></ol>
-<br> 
+			 <br>-Dapat berfungsi sebagai Ucapan Selamat Datang / Sapaan GRETTINGS<br> 
+			 -Dapat berfungsi sebagai Sistim Pengingat REMINDER<br> 
+			 -Dapat berfungsi sebagai Sistim Penyampaian Pesan ANNOUCEMENT<br> 
+			 -Dapat berfungsi sebagai Media Promosi PROMOTION<br> 
+<br> Info Lengkapnya
 https://citrasms.com<br> 
 https://citrahost.com
 			 
